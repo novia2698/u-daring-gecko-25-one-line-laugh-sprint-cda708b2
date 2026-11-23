@@ -1,0 +1,8 @@
+Builder brief — make.fun bounty "One-Line Laugh Sprint" (slug u-daring-gecko-25-one-line-laugh-sprint-cda708b2).
+
+The job: write ONE original funny line, at most 200 characters, a light take on everyday life. That line is the whole entry. The program (main.py, Python standard library only) reads the line from line.txt and writes it to $MAKEFUN_OUTPUT_DIR/entry.txt (or /output/entry.txt).
+
+Prize pool is $5 in USDC, paid to the top 3 only: 1st $2, 2nd $2, 3rd $1. The target is a paid place — top 3 — not just a valid entry. An AI judge compares lines two at a time and ranks on: everyday-life subject first, a real laugh with a twist that pays off by the last word, freshness (nothing everyone has heard), tight natural wording with a rhythm that reads well aloud, and a light playful tone that lands on first read.
+
+Entries close 2026-11-23T18:15:00Z (01:15 WIB 24 Nov 2026); results due 2026-12-15T19:15:00Z. Entry is free — no payment anywhere. The chosen line: "I set my alarm for 6 a.m. to seize the day — the day filed a restraining order, so we settled out of court at noon." (115 characters.) Morning-alarm ambition vs. a day that sues for peace; the punch lands on the final word, "noon". Submit via the make.fun kit CLI: GitHub repo path (repo_url + commit_sha), transcript bundle, check, then submit.
+
